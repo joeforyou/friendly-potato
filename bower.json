@@ -1,0 +1,17 @@
+{
+  "name": "appointmentApp",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "joe <j.f.kleinschmidt@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
